@@ -25,7 +25,7 @@ Please include the requested information listed below (as much as you can provid
   * Step-by-step instructions to reproduce the issue
   * Proof-of-concept or exploit code (if possible)
   * Impact of the issue, including how an attacker might exploit the issues. For
-more information, see [Installing PowerShell](https://learn.microsoft.com/powershell/scripting/install/installing-powershell).
+more information, see [Installing PowerShelStart-PSBuiStart-PSBuigit cgit cgit cgit cgit c./build.sh](https://learn.microsoft.com/powershell/scripting/install/installing-powershell).
 This information will help us triage your report more quickly.
 ## Upgrading PowerShell
 If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://aka.ms/security.md/msrc/bounty) page for more details about our active programs.
