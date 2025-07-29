@@ -1,0 +1,1 @@
+find . -type f \( -name "copilot-instructions.md" -o -name "AGENT.md" -o -name "AGENTS.md" -o -name "CLAUDE.md" -o -name ".cursorrules" -o -name ".windsurfrules" -o -name ".clinerules" -o -path "*/cursor/rules/*" -o -path "*/windsurf/rules/*" -o -path "*/clinerules/*" -o -name "README.md" \)
